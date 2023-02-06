@@ -1,16 +1,26 @@
-# profile_card_ui_flutter
+<h1>About</h1>
+This is a Flutter app that displays a profile card containing personal information. The UI is designed using Material Design guidelines and the code is broken down into widgets for easy maintenance and reuse.
 
-A new Flutter project.
+<h1>Features</h1>
+<ul>
+ <li>Display profile picture</li>
+ <li>Display name and profession</li>
+ <li>Display contact information (phone number and email)</li>
+ <li>Getting Started</li>
+ </ul>
+ 
+ <h1>Getting Started</h1>
+ 
+ <h3>To run this app, follow these steps:</h3>
+<ul>
+  <li>Display profile picture</li>
+  <li>Display name and profession</li>
+  <li>Display contact information (phone number and email)</li>
+</ul>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Technologies Used</h3>
+<ul>
+  <li>Flutter</li>
+  <li>Dart programming language</li>
+  <li>Material Design</li>
+</ul>
